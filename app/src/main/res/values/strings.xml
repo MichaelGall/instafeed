@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Instafeed</string>
+    <string name="loginButton">Log In</string>
+    <string name="textEmail">Email Address</string>
+</resources>
